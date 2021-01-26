@@ -1,16 +1,16 @@
 # Logistic_Regression
 
-## Binder Badge to start the Binder environment:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GharbiRaouf/Logistic_Regression/master)
+## Binder Badge, um die Binder-Umgebung zu starten:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdilSh99/Logistic_Regression/HEAD)
 
-## How to perform the exercise?
-Click on the Launch Binder button, then a Binder window will open. A docker container with all necessary images will be created automatically. After a successful creation, a Jupyter window will be opened. Open Logistische_Regression_Projekt.ipynb and then click on Run All at the top of Cell.
+## Wie wird die Übung durchgeführt?
+Klicken Sie auf die Schaltfläche "Launch Binder", dann wird ein Binder-Fenster geöffnet. Es wird automatisch ein Docker-Container mit allen notwendigen Images erstellt. Nach erfolgreicher Erstellung wird ein Jupyter-Fenster geöffnet. Öffnen Sie Logistische_Regression_Projekt.ipynb und klicken Sie dann oben in Cell auf Run All.
 
-## Expected results ?
-In this project we will work with fake data on advertisements, which will show whether a user clicked on an advertisement on a company's website or not. We will try to create a model that predicts whether or not a user will click on the ads based on user characteristics.
+## Erwartete Ergebnisse ?
+In diesem Projekt werden wir mit gefälschten Daten über Anzeigen arbeiten, die zeigen, ob ein Benutzer auf eine Anzeige auf der Website eines Unternehmens geklickt hat oder nicht. Wir werden versuchen, ein Modell zu erstellen, das aufgrund von Benutzermerkmalen vorhersagt, ob ein Benutzer auf die Anzeigen klicken wird oder nicht.
 
-1. Read data
-2. Explorative data analysis of data
-3. Generate some visualizations for a general overview
-4. Train and fit a logistic regression model to the training set
-5. Predictions and evaluation
+1. Daten lesen
+2. Explorative Datenanalyse von Daten
+3. Erzeugen einiger Visualisierungen für einen allgemeinen Überblick
+4. Trainieren und Anpassen eines logistischen Regressionsmodells an den Trainingssatz
+5. Vorhersagen und Auswertung
